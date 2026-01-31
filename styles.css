@@ -264,18 +264,18 @@ a {
   padding-bottom: 0.3rem;
   color: var(--color-white);
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 .text-tread span {
   color: #fafafab4;
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 .img-tread {
   width: 100%;
   height: 100px;
-  background-image: url(/img/tread-skateboard.jpg);
+  background-image: url(/img/web-black-icon.png);
   background-position: center;
   background-size: 100%;
   background-repeat: no-repeat;
